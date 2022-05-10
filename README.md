@@ -12,10 +12,13 @@
    ![](https://i.ibb.co/YB9xHgW/Test-2.png "Стек")
 
 Связаться со мной можно тут:
-<hr>
 
 
-[Telegram](http://t.me/SZhavoronkov24)
+[✈ Telegram](http://t.me/SZhavoronkov24)
+
+[✉ Gmail](mailto:13drummer133@gmail.com)
+
+[🍏 IСloud Mail](mailto:sznomore@icloud.com)
 
 <hr>
 
