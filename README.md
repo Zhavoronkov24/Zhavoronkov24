@@ -32,9 +32,7 @@
                   
                   
  <p align="left">
-                          
-  
-   <a href="http://www.instagram.com/_zhavoronkov___" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> Instagram</a>
+                       
                           
    <a href="http://t.me/SZhavoronkov24" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" width="32" height="32" /> Telegram</a></p>
    
