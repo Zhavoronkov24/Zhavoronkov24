@@ -8,10 +8,9 @@
 Спасибо что заглянули в мой Github!
 
 *   🌍  Живу в Сибири
-*   🖥️  Посмотрите мое резюме [здесь](http://drive.google.com/file/d/1XXBWFv4h9Z438RlG4L3gxd2kcifpktd6/view?usp=sharing)
+*   🖥️  Мой сайт [здесь](https://slav.qa.addpotion.com/)
 *   ✉️  Моя почта [тут](mailto:sl.zhavoronkov@yandex.ru)
 *   🧠  Учу Java [профиль на JavaRush](https://javarush.ru/users/3057679)
-*   ⚙   Пример покрытия автотестами [здесь](https://github.com/Zhavoronkov24/Stepik_autotest)
 
 ###  Что умею
 
