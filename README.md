@@ -47,6 +47,4 @@
   
 </div>
 
-![Profile views](https://gpvc.arturio.dev/Zhavoronkov24)
-
 
