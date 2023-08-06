@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java in javarush**
 
-- 🤝 Developing my web page [slavqa.ru](slavqa.ru)
+- 🤝 Developing my web page [slavqa.ru](https://slavqa.ru)
 
 - 💬 Also, I’m interested in developing on **html/css/js**
 
