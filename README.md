@@ -1,23 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vyacheslav</h1>
-<h3 align="center">Fullstack-QA from Syberia</h3>
 
+## 🚀 About Me
+I'm a full stack QA from Syberia. I'm doing manual and automated testing of the project.
 
-- 🔭 I'm doing manual and automated testing of the project
-
-- 🌱 I’m currently learning **Java in javarush**
-
-- 🤝 Developing my web page [slavqa.ru](https://slavqa.ru)
-
-- 💬 Also, I’m interested in developing on **html/css/js**
-
-- 📫 How to reach me **sl.zhavoronkov@yandex.ru**
-
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1XXBWFv4h9Z438RlG4L3gxd2kcifpktd6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/slav.qa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="slav.qa" height="30" width="40" /></a>
 <a href="https://t.me/SZhavoronkov24" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png" alt="SZhavoronkov24" height="30" width="30" /></a>
+<a href="mailto:sl.zhavoronkov@yandex.ru" target="blank"><img align="center" src="https://icon-library.com/images/white-mail-icon-png/white-mail-icon-png-13.jpg" alt="slav.qa" height="30" weight="40" /></a>
+<a href="slavqa.ru" target="blank"><img align="center" src="https://www.nicepng.com/png/full/170-1709508_web-solutions-web-icon-white-png.png" alt="slav.qa" height="30" weight="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
