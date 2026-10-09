@@ -6,7 +6,6 @@ I'm a full stack QA from Syberia. I'm doing manual and automated testing of the 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/slav.qa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="slav.qa" height="30" width="40" /></a>
 <a href="https://t.me/SZhavoronkov24" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png" alt="SZhavoronkov24" height="30" width="30" /></a>
 <a href="mailto:sl.zhavoronkov@yandex.ru" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/526/526901.png" alt="slav.qa" height="35" style="margin:5px"/></a>
 
